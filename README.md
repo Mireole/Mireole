@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 Here are some ideas to get you started:
 
 - 🇫🇷 French
@@ -10,5 +8,3 @@ Here are some ideas to get you started:
     - **Java**
     - **C**
     - **Python**
-
--->
